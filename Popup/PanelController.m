@@ -270,7 +270,7 @@
 }
 //This is a button that creates a blank message to my email address
 - (IBAction)email:(NSButton *)sender {
-    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"mailto:paul@thedunahoos.com"]];
+    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"mailto:thenerdpaul@gmail.com"]];
 }
 
 @end
